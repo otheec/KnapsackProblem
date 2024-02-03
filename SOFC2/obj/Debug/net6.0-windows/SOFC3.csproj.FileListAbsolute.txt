@@ -1,0 +1,17 @@
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.csproj.AssemblyReference.cache
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.csproj.GenerateResource.cache
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.AssemblyInfoInputs.cache
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.AssemblyInfo.cs
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.csproj.CoreCompileInputs.cache
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\bin\Debug\net6.0-windows\SOFC3.exe
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\bin\Debug\net6.0-windows\SOFC3.deps.json
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\bin\Debug\net6.0-windows\SOFC3.runtimeconfig.json
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\bin\Debug\net6.0-windows\SOFC3.dll
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\bin\Debug\net6.0-windows\SOFC3.pdb
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.dll
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\refint\SOFC3.dll
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.pdb
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.genruntimeconfig.cache
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\ref\SOFC3.dll
+C:\Users\Otmar\OneDrive\Plocha\SOFC\SOFC3\obj\Debug\net6.0-windows\SOFC3.SOFC_knapsack.resources

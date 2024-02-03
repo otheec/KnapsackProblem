@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6puHiXEYKzRRhMsG+XGSsWUWiPMMs4TVNFw3pVk5h6zteMWzN6IS4Xx4HJYoiDzBEVlC/f45mMY46ZtABHXVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Otmar\\OneDrive\\Plocha\\OSU\\SOFC\\projekt 2\\SOFC2\\SOFC3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Otmar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Otmar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Otmar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Otmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

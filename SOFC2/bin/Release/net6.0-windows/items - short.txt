@@ -1,0 +1,10 @@
+Ponožky, 1, 100
+Mobil, 1, 5000
+Spacak, 1, 3500
+Karimatka, 1, 500
+Celovka, 1, 1500
+Kartacek, 1, 80
+Pasta, 1, 50
+Tricko, 1, 750
+Kalhoty, 1, 800
+Obuv, 1, 3000

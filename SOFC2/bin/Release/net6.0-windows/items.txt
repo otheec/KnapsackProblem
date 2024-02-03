@@ -1,0 +1,67 @@
+Ponožky, 1, 100
+Mobil, 1, 5000
+Spacak, 1, 3500
+Karimatka, 1, 500
+Celovka, 1, 1500
+Kartacek, 1, 80
+Pasta, 1, 50
+Tricko, 1, 750
+Kalhoty, 1, 800
+Obuv, 4, 3000
+Vestavěná skříň, 6, 8000
+Knihy, 2, 200
+Stůl, 8, 10000
+Židle, 6, 2500
+Lampička, 3, 500
+Rádio, 2, 1500
+Plynový vařič, 5, 1500
+Míč, 1, 300
+Lyže, 3, 5000
+Taška, 2, 750
+Cestovní zrcadlo, 1, 200
+Hřeben, 1, 50
+Zubní kartáček, 1, 100
+Papírové kapesníky, 1, 50
+Flétna, 1, 400
+Povlečení, 2, 1500
+Topení, 1, 3000
+Perník, 1, 20
+Rukavice, 1, 200
+Korálky, 1, 100
+Příbor, 1, 500
+Denní tisk, 1, 30
+Jízdní kolo, 10, 5000
+Nářadí, 4, 1000
+Kočárek, 7, 3500
+Šperky, 1, 250
+Bicyklová pumpa, 1, 300
+Sjezdové lyže, 4, 8000
+Průkaz totožnosti, 1, 50
+Notebook, 3, 10000
+Kapesní nože, 1, 200
+Šroubovák, 1, 150
+Lepidlo, 1, 50
+Houby na mytí nádobí, 1, 50
+Těhotenské kalhoty, 1, 500
+Zásobník na kapsle, 1, 300
+Plovací vesta, 1, 1000
+Brýle na snowboard, 1, 1500
+Chytré hodinky, 1, 4000
+Drobná elektronika, 1, 1500
+Koberec, 1, 2000
+Skleničky, 2, 300
+Náhradní zubní kartáčky, 1, 50
+Míčky na ping pong, 3, 100
+Olejová barva, 1, 300
+Štětce na malování, 1, 100
+Čajová konvice, 1, 800
+Sudy na víno, 3, 500
+Krabička na cukroví, 1, 100
+Varná deska, 1, 1500
+Horkovzdušná trouba, 1, 3000
+Oblek, 1, 4000
+Cukrovinky, 1, 50
+Odpadkový koš, 1, 200
+Loutky, 3, 800
+Pleny, 3, 500
+Koberce do auta, 2, 500
